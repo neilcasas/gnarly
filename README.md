@@ -2,10 +2,7 @@
 
 * a WinUI 3 GUI for window management using AutoHotkey and VD.ahk
 
-
-
-Features
-
+## Features
 * View all possible window management events that can be programmed with VD.ahk
 * Listen to keyboard press
 * Write an AutoHotkey script

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "gnarly (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "gnarly (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
